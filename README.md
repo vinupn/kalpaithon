@@ -1,4 +1,4 @@
-# 🌱 AgriAI Connect
+# 🌱 AgriverseAI
 
 ### Making Agriculture Attractive for Corporate Engagement Using AI
 
@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-AgriAI Connect is an AI-powered interactive platform designed to transform how corporates perceive and engage with agriculture. It bridges the gap between traditional farming and modern business by offering personalized insights, immersive simulations, and data-driven decision support.
+AgriverseAI Connect is an AI-powered interactive platform designed to transform how corporates perceive and engage with agriculture. It bridges the gap between traditional farming and modern business by offering personalized insights, immersive simulations, and data-driven decision support.
 
 The platform aims to make agriculture engaging, profitable, and innovation-driven, encouraging corporates to explore opportunities in agri-tech, sustainability, and agri-investments.
 
